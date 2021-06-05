@@ -1,0 +1,12 @@
+{
+  "name": "react-native-mapbox-gl-maps-test",
+  "displayName": "react-native-mapbox-gl-maps-test",
+  "expo": {
+    "name": "react-native-mapbox-gl-maps-test",
+    "slug": "react-native-mapbox-gl-maps-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
